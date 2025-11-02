@@ -1,0 +1,10 @@
+----- SafePay Encrypted File -----
+
+🔒 Encrypted Text:
+gAAAAABpBywsda0jF47bdQ_J62BvXFKEtI2ni65B-T21yhi-onP8akWzCZGOlYBRJ2oqBinPEmjJGaOIim5GKmmRgU5nQxJVYQ==
+
+🔑 Encryption Key:
+szTFsM5FNMrQE89rk7MLOVvfHI4lcZIr2LxSDDLNEh4=
+
+-----------------------------------
+Keep this file safe. You'll need BOTH values for decryption.

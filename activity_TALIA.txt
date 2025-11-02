@@ -1,0 +1,8 @@
+TALIA | Logged In
+TALIA | Encrypted Data
+TALIA | Decrypted Data
+TALIA | Logged In | 2025-11-02 17:11:58
+TALIA | Account Locked | 2025-11-02 17:12:22
+TALIA | Account Locked | 2025-11-02 17:17:20
+TALIA | Logged In | 2025-11-02 17:17:48
+TALIA | Session Expired | 2025-11-02 17:24:30
